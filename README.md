@@ -49,7 +49,10 @@ Images are 1024×1024 PNG with per-building polygon annotations in JSON/WKT form
 
 ---
 
-## Folder Structure  (Data is not included in this repo due to its size, the structure downbelow shows the proper struture for code to excute)
+## Folder Structure
+Data and outputs are not included in this repository due to size constraints.
+The structure below shows the expected layout for the code to run correctly,
+and what the directory would look like after execution.
 
 ```
 ECE6364/
