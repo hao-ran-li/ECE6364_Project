@@ -49,11 +49,11 @@ Images are 1024×1024 PNG with per-building polygon annotations in JSON/WKT form
 
 ---
 
-## Folder Structure
+## Folder Structure  (Data is not included in this repo due to its size, the structure downbelow shows the proper struture for code to excute)
 
 ```
 ECE6364/
-├── Data/
+├── Data/   
 │   ├── train/
 │   │   ├── images/          # Pre/post-disaster satellite images
 │   │   ├── labels/          # Per-building JSON annotations (WKT polygons)
